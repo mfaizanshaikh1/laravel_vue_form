@@ -59,22 +59,3 @@ Follow the steps below to set up and run this Laravel project on your local deve
 
     ```bash
     php artisan queue:work
-    
-
-
-
-
-
-    
-
-
-
-
-
-
-
-  
-
-
-
-
